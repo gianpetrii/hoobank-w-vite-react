@@ -26,5 +26,4 @@ dist-ssr
 # react and config
 package-lock.json
 postcss.config.cjs
-tailwind.config.cjs
 vite.config.cjs
