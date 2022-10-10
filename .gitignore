@@ -25,5 +25,3 @@ dist-ssr
 
 # react and config
 package-lock.json
-postcss.config.cjs
-vite.config.cjs
